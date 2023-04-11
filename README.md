@@ -3,10 +3,10 @@
 This website provides comprehensive content on Data Structures and Algorithms (DSA) topics for students to learn. It is built with Node.js and Express.js, and uses MongoDB as the database.
 
 # Installation and Setup
-Clone the repository: git clone https://github.com/Saurabh9678/LearnDSA_backend.git
-Install dependencies: npm install
-Start the server: npm start
-The website should now be available at http://localhost:3000
+Clone the repository: git clone `https://github.com/Saurabh9678/LearnDSA_backend.git`  
+Install dependencies: `npm install`  
+Start the server: `npm start`  
+The website should now be available at `http://localhost:3000`  
 
 # Features
 # Authentication
@@ -17,7 +17,7 @@ Users can create an account and log in to access the DSA topics. The authenticat
 Authenticated users with admin privileges can add, update, and delete DSA topics. Admin routes are protected by an authentication middleware that ensures only authorized users can access them.
 
 # Technologies Used
-Node.js and Express.js for building the backend
+Node.js and Express.js for building the backend  
 MongoDB for the database
 
 
