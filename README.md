@@ -18,8 +18,6 @@ Start the server: `npm start`
 The website should now be available at `http://localhost:3000`  
 
 
-
-# Features
 # Authentication
 Users can create an account and log in to access the DSA topics. The authentication system is built using JSON Web Tokens (JWT) and bcrypt for password hashing.
 
